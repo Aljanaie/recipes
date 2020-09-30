@@ -1,3 +1,6 @@
-# Ingredients 
+# Ingredients
+- avacado 
+- lemon
+- salt 
 # Insturctions
 
